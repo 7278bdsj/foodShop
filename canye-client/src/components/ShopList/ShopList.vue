@@ -4,7 +4,7 @@
       <li class="shop_li border-1px" v-for="(shop,index) in shops" :key="index" @click="$router.push('/shop')">
         <a>
           <div class="shop_left">
-            <img class="shop_img" :src="imgBaseUrl + shop.image_path">
+            <img class="shop_img" src="./images/timg.jpg">
           </div>
           <div class="shop_right">
             <section class="shop_detail_header">
@@ -55,7 +55,7 @@
   export default {
     data () {
       return {
-        imgBaseUrl: 'http://owoccema2.bkt.clouddn.com/show/MintShop/'
+        imgBaseUrl: ''
         // shops: []
       }
     },

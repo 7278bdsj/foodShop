@@ -44,7 +44,7 @@
           <i class="iconfont icon-dingdan"></i>
         </span>
         <div class="my_order_div">
-          <span>我的订单</span>
+          <span> 我的订单</span>
           <span class="my_order_icon">
             <i class="iconfont icon-previewright"></i>
           </span>
@@ -68,7 +68,7 @@
           <i class="iconfont icon-viptehuishiduan"></i>
         </span>
         <div class="my_order_div">
-          <span>canye外卖会员卡</span>
+          <span>外卖会员卡</span>
           <span class="my_order_icon">
             <i class="iconfont icon-previewright"></i>
           </span>
@@ -130,7 +130,7 @@
     width 100%
     overflow hidden // 不会跟着别的页面滑动
     .header //头部公共css
-      background-color #02a774
+      background-color deepskyblue
       position fixed
       z-index 100
       left 0
@@ -162,7 +162,7 @@
         clearFix()
         position relative
         display block
-        background #02a774
+        background deepskyblue
         padding 20px 10px
         .profile_image
           float left
@@ -232,7 +232,7 @@
           .info_data_bottom
             display inline-block
             font-size 14px
-            color #666
+            color #666666
             font-weight 400
             padding-bottom 10px
         .info_data_link:nth-of-type(2)
@@ -243,7 +243,7 @@
           border 0
           .info_data_top
             span
-              color #6ac20b
+              color deepskyblue
     .profile_my_order
       top-border-1px(#e4e4e4)
       margin-top 10px
@@ -259,7 +259,7 @@
           height 20px
           >.iconfont
             margin-left -10px
-            font-size 30px
+            font-size 20px
           .icon-dingdan
             color #02a774
           .icon-jifen
@@ -273,6 +273,7 @@
           border-bottom 1px solid #f1f1f1
           padding 18px 10px 18px 0
           font-size 16px
+		  font-weight 900
           color #333
           display flex
           justify-content space-between

@@ -58,5 +58,5 @@
       padding: 6px
       line-height: 24px
       font-size: 24px
-      color $green
+      color deepskyblue
 </style>

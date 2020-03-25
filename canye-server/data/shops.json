@@ -1,7 +1,7 @@
 [
   {
-    "name": "嘉禾一品（温都水城）",
-    "address": "北京市昌平区宏福苑温都水城F1",
+    "name": "BQ汉堡",
+    "address": "广东省广州市",
     "id": 1,
     "latitude": 40.10039,
     "longitude": 116.36868,
@@ -40,7 +40,7 @@
     "status": 1,
     "recent_order_num": 106,
     "rating_count": 961,
-    "rating": 4.7,
+    "rating": 4.4,
     "promotion_info": "欢迎光临，用餐高峰请提前下单，谢谢",
     "piecewise_agent_fee": {
       "tips": "配送费约¥5"
@@ -82,7 +82,7 @@
     "__v": 0
   },
   {
-    "name": "大成小厨",
+    "name": "老北京炸酱面",
     "address": "河南省郑州市蜀山区南二环路天鹅湖万达广场8号楼1705室",
     "id": 479,
     "latitude": 31.81948,
@@ -122,7 +122,7 @@
     "status": 1,
     "recent_order_num": 755,
     "rating_count": 167,
-    "rating": 4.2,
+    "rating": 4.8,
     "promotion_info": "欢迎光临，用餐高峰请提前下单，谢谢",
     "piecewise_agent_fee": {
       "tips": "配送费约¥5"
@@ -173,7 +173,7 @@
     "__v": 0
   },
   {
-    "name": "苏州嘻哈包袱铺",
+    "name": "肯德基宅急送",
     "address": "江苏省苏州市吴中区吴东路中文基广场(姜家桥公交站南)",
     "id": 485,
     "latitude": 31.26578,
@@ -213,7 +213,7 @@
     "status": 1,
     "recent_order_num": 58,
     "rating_count": 576,
-    "rating": 4.6,
+    "rating": 4.2,
     "promotion_info": "欢迎光临，用餐高峰请提前下单，谢谢",
     "piecewise_agent_fee": {
       "tips": "配送费约¥5"
@@ -264,7 +264,7 @@
     "__v": 0
   },
   {
-    "name": "大树旗舰店2112",
+    "name": "利荣连奶茶",
     "address": "广东省广州市天河区东圃镇汇彩路38号1领汇创展商务中心401",
     "id": 486,
     "latitude": 23.1127,
@@ -304,7 +304,7 @@
     "status": 1,
     "recent_order_num": 542,
     "rating_count": 372,
-    "rating": 4.2,
+    "rating": 4.5,
     "promotion_info": "大树旗舰店标语",
     "piecewise_agent_fee": {
       "tips": "配送费约¥5"
@@ -395,7 +395,7 @@
     "status": 0,
     "recent_order_num": 923,
     "rating_count": 871,
-    "rating": 4.2,
+    "rating": 4.5,
     "promotion_info": "广州第一家",
     "piecewise_agent_fee": {
       "tips": "配送费约¥5"
@@ -446,7 +446,7 @@
     "__v": 0
   },
   {
-    "name": "闪电老司机",
+    "name": "西尊披萨",
     "address": "广东省广州市越秀区德政中路171",
     "id": 488,
     "latitude": 23.12092,
@@ -577,7 +577,7 @@
     "status": 1,
     "recent_order_num": 49,
     "rating_count": 447,
-    "rating": 4.7,
+    "rating": 4.5,
     "promotion_info": "欢迎光临，用餐高峰请提前下单，谢谢",
     "piecewise_agent_fee": {
       "tips": "配送费约¥5"
@@ -628,7 +628,7 @@
     "__v": 0
   },
   {
-    "name": "川菜馆",
+    "name": "柳州螺丝粉",
     "address": "广东省深圳市宝安区留仙二路59",
     "id": 496,
     "latitude": 22.58295,
@@ -909,7 +909,7 @@
     "__v": 0
   },
   {
-    "name": "上海本帮菜",
+    "name": "皇室甜点",
     "address": "上海市静安区襄阳北路17号3层",
     "id": 502,
     "latitude": 31.22003,
@@ -1091,7 +1091,7 @@
     "__v": 0
   },
   {
-    "name": "四川麻辣烫",
+    "name": "满茶",
     "address": "四川省成都市郫都区郫都区郫都区",
     "id": 506,
     "latitude": 30.73324,
